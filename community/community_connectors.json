@@ -458,6 +458,15 @@
     "source_code": "https://github.com/tagyoureit/InfluxDB_WDC"
   },
   {
+    "name": "IQM Reports",
+    "url": "https://tableau-connector.iqm.com",
+    "author": "IQM Corporation",
+    "github_username": "ccampbell5",
+    "tags": ["v_2.4"],
+    "description": "A connector to import IQM ad-serving data into Tableau.",
+    "source_code": ""
+  },
+  {
     "name": "Italian Startup Companies Connector",
     "url": "http://www.myitalialogin.it/services/startupWDC.html",
     "author": "Luigi Marangon",
@@ -501,6 +510,15 @@
     "tags": ["v_2.3"],
     "description": "A simple connector for JSON or XML data. Simply paste in your URL or data or just drag and drop a file.",
     "source_code": "https://github.com/KeshiaRose/JSON-XML-WDC"
+  },
+  {
+      "name": "JSON-stat (and SDMX-JSON) Connector",
+      "url": "https://jsonstat.com/tableau/",
+      "author": "Xavier Badosa",
+      "github_username": "badosa",
+      "tags": ["v_2.3"],
+      "description": "A general connector to import data from most statistical offices in the World.",
+      "source_code": ""
   },
   {
     "name": "Jupytab",
